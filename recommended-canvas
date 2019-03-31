@@ -1,0 +1,11 @@
++--------------------------------------+------------+
+| Screens                              | Size in px |
++--------------------------------------+------------+
+| Small devices (iPhone 4)             | 320 x 480  |
+| Normal devices (iPhone 5s)           | 320 x 568  |
+| Medium devices (iPhone 6s)           | 375 x 667  |
+| Medium tall devices (iPhone X)       | 375 x 812  |
+| Large devices / phablets (iPhone 7+) | 414 x 736  |
+| Tablets (iPad)                       | 1024 x 768 |
+| Web                                  | 1440 x 900 |
++--------------------------------------+------------+
